@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635159347 source:d:\teme info\poo2\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<sstream>
+	<bits/stdc++.h>
+
